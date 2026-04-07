@@ -92,15 +92,13 @@ const avishek = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=alpha101001&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Avishek's GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha101001&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alpha101001&theme=radical&hide_border=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alpha101001&theme=radical&hide_border=true" alt="GitHub Streak" />
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alpha101001&theme=redical&hide_border=true)](https://github.com/alpha101001)
 
 </div>
 
